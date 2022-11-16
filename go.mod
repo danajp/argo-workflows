@@ -187,7 +187,7 @@ require (
 	sigs.k8s.io/structured-merge-diff/v4 v4.2.1 // indirect
 )
 
-require github.com/creack/pty v1.1.9
+require github.com/creack/pty v1.1.18
 
 require github.com/whilp/git-urls v1.0.0 // indirect
 
